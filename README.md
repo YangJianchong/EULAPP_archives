@@ -2,4 +2,5 @@
 收集比较隐私政策、用户协议等的不同版本
 
 
-[微博个人信息保护政策](https://m.weibo.cn/c/privacy)
+
+<a href="weibo/weibo%20privacy%20policy.txt">微博个人信息保护政策</a> [链接](https://m.weibo.cn/c/privacy)
